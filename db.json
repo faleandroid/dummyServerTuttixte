@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": 1
+      "id": 1,
       "modelEvaluation": 1,
       "attentions": [
         0.44552648510494086,
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "id": 
+      "id": 2,
       "modelEvaluation": -1,
       "attentions": [
         0.44552648510494086,
