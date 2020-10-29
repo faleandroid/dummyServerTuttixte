@@ -28,15 +28,7 @@
   "profile": {
     "name": "typicode"
   },
-  "gets": [
-    {
+  "get": {
       "modelEvaluation": 1
-    },
-    {
-      "modelEvaluation": -1
-    },
-    {
-      "modelEvaluation": 0
     }
-  ]
 }
