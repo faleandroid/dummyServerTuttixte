@@ -1,8 +1,8 @@
 {
   "gets": [
-    
+    {
       "id": 1,
-      "modelEvaluations": 1,
+      "modelEvaluation": 1,
       "attentions": [
         0.44552648510494086,
         0.8995058577926802,
