@@ -97,6 +97,36 @@
       ]
     },
     {
+      "id": 3,
+      "prediction": 0.3858904838562012,
+      "tokenized_sent": [
+        "ospite",
+        "stazionaria",
+        "mattinata",
+        "alimenta",
+        "idrata",
+        "adeguatamente",
+        "pasti",
+        "apiretica",
+        "controlli",
+        "spo",
+        "norma"
+      ],
+      "att_weights": [
+        0.06073732,
+        0.06667828,
+        0.03317492,
+        0.0182349,
+        0.02902271,
+        0.08053857,
+        0.03814128,
+        0.0498059,
+        0.06476358,
+        0.12798028,
+        0.14130181
+      ]
+    },
+    {
       "id": 2,
       "prediction": 0.9338634610176086,
       "tokenized_sent": [
