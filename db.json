@@ -92,6 +92,7 @@
       "id": 4,
       "evaluation": {
         "prediction": 0.9202781915664672,
+        "threshold": 0.5,
         "tokenized_sent": [
           "vengo",
           "allertata",
@@ -229,6 +230,7 @@
       },
       "important": {
         "prediction": 0.9202781915664672,
+        "threshold": 0.5,
         "tokenized_sent": [
           "vengo",
           "allertata",
