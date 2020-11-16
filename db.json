@@ -229,7 +229,7 @@
         ]
       },
       "important": {
-        "prediction": 0.9202781915664672,
+        "prediction": 0.3202781915664672,
         "threshold": 0.5,
         "tokenized_sent": [
           "vengo",
