@@ -2,31 +2,60 @@
   "gets": [
     {
       "id": 1,
-      "prediction": 0.8953123688697815,
-      "tokenized_sent": [
-        "cade",
-        "corridoio",
-        "ematoma",
-        "arcata",
-        "sopracigliare",
-        "dx",
-        "probabile",
-        "frattura",
-        "omero",
-        "dx"
-      ],
-      "att_weights": [
-        0.16691817,
-        0.0639012,
-        0.08803333,
-        0.11443468,
-        0.04415029,
-        0.08719174,
-        0.09190213,
-        0.13607827,
-        0.04179446,
-        0.07684023
-      ]
+      "evaluation": {
+        "prediction": 0.8953123688697815,
+        "tokenized_sent": [
+          "cade",
+          "corridoio",
+          "ematoma",
+          "arcata",
+          "sopracigliare",
+          "dx",
+          "probabile",
+          "frattura",
+          "omero",
+          "dx"
+        ],
+        "att_weights": [
+          0.16691817,
+          0.0639012,
+          0.08803333,
+          0.11443468,
+          0.04415029,
+          0.08719174,
+          0.09190213,
+          0.13607827,
+          0.04179446,
+          0.07684023
+        ]
+      },
+      "important": {
+        "prediction": 0.8953123688697815,
+        "tokenized_sent": [
+          "cade",
+          "corridoio",
+          "ematoma",
+          "arcata",
+          "sopracigliare",
+          "dx",
+          "probabile",
+          "frattura",
+          "omero",
+          "dx"
+        ],
+        "att_weights": [
+          0.16691817,
+          0.0639012,
+          0.08803333,
+          0.11443468,
+          0.04415029,
+          0.08719174,
+          0.09190213,
+          0.13607827,
+          0.04179446,
+          0.07684023
+        ]
+      }
     },
     {
       "id": 2,
