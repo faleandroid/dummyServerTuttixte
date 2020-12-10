@@ -4,6 +4,7 @@
       "id": 1,
       "evaluation": {
         "prediction": 0.8953123688697815,
+        "threshold": 0.5,
         "tokenized_sent": [
           "cade",
           "corridoio",
@@ -31,6 +32,7 @@
       },
       "important": {
         "prediction": 0.8953123688697815,
+        "threshold": 0.5,
         "tokenized_sent": [
           "cade",
           "corridoio",
