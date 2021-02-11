@@ -2,63 +2,63 @@
   "gets": [
     {
       "id": 1,
-      "worsening_value": "0"
+      "worsening_value": 0.0
     },
     {
       "id": 2,
-      "worsening_value": "0"
+      "worsening_value": 0.0
     },
     {
       "id": 3,
-      "worsening_value": "0"
+      "worsening_value": 0.0
     },
     {
       "id": 4,
-      "worsening_value": "0"
+      "worsening_value": 0.0
     },
     {
       "id": 5,
-      "worsening_value": "0"
+      "worsening_value": 0.0
     },
     {
       "id": 6,
-      "worsening_value": "0"
+      "worsening_value": 0.0
     },
     {
       "id": 7,
-      "worsening_value": "0"
+      "worsening_value": 0.0
     },
     {
       "id": 8,
-      "worsening_value": "0"
+      "worsening_value": 0.0
     },
     {
       "id": 9,
-      "worsening_value": "0"
+      "worsening_value": 0.0
     },
     {
       "id": 10,
-      "worsening_value": "1"
+      "worsening_value": 1.0
     },
     {
       "id": 11,
-      "worsening_value": "1"
+      "worsening_value": 1.0
     },
     {
       "id": 12,
-      "worsening_value": "1"
+      "worsening_value": 1.0
     },
     {
       "id": 13,
-      "worsening_value": "2"
+      "worsening_value": 2.0
     },
     {
       "id": 14,
-      "worsening_value": "2"
+      "worsening_value": 2.0
     },
     {
       "id": 15,
-      "worsening_value": "3"
+      "worsening_value": 3.0
     }
   ]
 }
